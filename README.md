@@ -1,4 +1,4 @@
-[![MasterHead]"https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"
+
 <h1 align="center">Hi 👋, I'm David Harrison</h1>
 <h3 align="center">An inspiring software engineer from Kalamazoo MI</h3>
 
