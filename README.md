@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Harrison</h1>
 <h3 align="center">An inspiring software engineer from Kalamazoo MI</h3>
 
-- 🌱 I’m currently learning **Database management and Data Structures**
+- 🌱 I’m currently developing an inventory managment app!
 
 - 📫 How to reach me **davidharrison101967@gmail.com**
 
